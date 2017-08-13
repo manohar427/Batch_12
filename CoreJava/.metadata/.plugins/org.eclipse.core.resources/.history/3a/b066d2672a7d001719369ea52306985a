@@ -1,0 +1,10 @@
+
+public class Animal {
+
+	int legs = 2;
+	
+	String getWalkingStyle(int l){
+		legs = l;
+		return "walk";
+	}
+}

@@ -1,0 +1,17 @@
+
+public class MethodDemo {
+
+	public static void main(String[] args) {
+
+	}
+
+}
+
+
+class Customer{
+	
+	String getName(int custId){
+		
+		return "XYZ";
+	}
+}

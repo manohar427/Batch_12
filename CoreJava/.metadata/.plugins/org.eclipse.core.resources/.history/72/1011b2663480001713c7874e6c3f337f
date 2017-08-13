@@ -1,0 +1,16 @@
+package com.exec;
+
+public class Bank {
+
+	public int getMoney(int acc){
+		int money = 0;
+		try{
+			
+		}catch(){
+			
+		}
+		
+		
+		return 1000;
+	}
+}

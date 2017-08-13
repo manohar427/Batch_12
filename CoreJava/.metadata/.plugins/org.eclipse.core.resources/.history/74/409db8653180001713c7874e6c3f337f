@@ -1,0 +1,10 @@
+package com.exec;
+
+public class CompileTimeExecption {
+
+	public static void main(String[] args) {
+
+		Class.forName("abc");
+	}
+
+}

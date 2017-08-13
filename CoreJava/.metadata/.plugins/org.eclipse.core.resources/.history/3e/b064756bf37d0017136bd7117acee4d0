@@ -1,0 +1,10 @@
+
+public class A {
+ 
+	void m1(){
+		System.out.println("A-m1()");
+	}
+	abstract m2();
+	
+	abstract m3();
+}

@@ -1,0 +1,23 @@
+
+public class VariableDemo {
+   public static void main(String[] args) {
+	
+	   int age = 10;
+	   String name = "Pqr";
+	   float dollor = 64.2345f;
+	   boolean flag = false;
+	   char gender = 'M';
+	   
+	   int[] ages = {10,14,12,23};
+	   int marks[] = {90,67,88};
+	   long phno = 9986781724l;
+	   System.out.println("My name is :"+name+" and grnder is :"+gender);
+	   
+	   
+   }
+   
+   int add(int x,int y){
+	   return x+y;
+   }
+   
+}

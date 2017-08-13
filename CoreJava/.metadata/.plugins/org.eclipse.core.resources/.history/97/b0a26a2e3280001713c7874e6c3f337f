@@ -1,0 +1,19 @@
+package com.exec;
+
+public class OutOfMemoryError {
+
+	public static void main(String[] args) {
+
+	}
+
+}
+class A
+{
+	void m1(){
+		System.out.println("m1()");
+	}
+	
+	void m1(){
+		System.out.println("m1()");
+	}
+}

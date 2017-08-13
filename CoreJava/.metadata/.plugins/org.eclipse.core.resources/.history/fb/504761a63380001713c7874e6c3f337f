@@ -1,0 +1,21 @@
+package com.exec;
+
+public class MyOwnExceptionDemo {
+
+	public static void main(String[] args) {
+
+		int age = 10;
+		
+		if(age <=10){
+		   throw new InsufficientAgeException("In sufficient Age ");
+		}
+	}
+
+}
+
+class InsufficientAgeException extends Exception
+{
+	InsufficientAgeException(String exception){
+		super(exception);
+	}
+}

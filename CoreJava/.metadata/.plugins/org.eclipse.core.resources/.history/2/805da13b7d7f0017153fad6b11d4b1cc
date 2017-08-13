@@ -1,0 +1,10 @@
+package com.exec;
+
+public class ArrayException {
+
+	public static void main(String[] args) {
+
+		int std[] = {12,34};
+	}
+
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Person"/>
+<fullyQualifiedTypeName name="MyInterface"/>
+<fullyQualifiedTypeName name="com.floor.FlooringManager"/>
+<fullyQualifiedTypeName name="com.window.WindowManager"/>
+<fullyQualifiedTypeName name="BManager"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+</qualifiedTypeNameHistroy>

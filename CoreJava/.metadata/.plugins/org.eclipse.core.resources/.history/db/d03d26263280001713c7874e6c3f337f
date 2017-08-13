@@ -1,0 +1,9 @@
+package com.exec;
+
+public class OutOfMemoryError {
+
+	public static void main(String[] args) {
+
+	}
+
+}

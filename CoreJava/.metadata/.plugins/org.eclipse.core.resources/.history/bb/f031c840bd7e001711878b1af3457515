@@ -1,0 +1,9 @@
+package com.window;
+
+public class WindowManager {
+
+	public static void main(String[] args) {
+		
+	}
+	
+}

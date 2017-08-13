@@ -1,0 +1,15 @@
+
+public class House {
+
+	void  getWindows(){
+		System.out.println("House windows are Made with glass");
+	}
+	
+	void  getWindows(){
+		System.out.println("House windows are Made with glass");
+	}
+	
+	void  getWindows(){
+		System.out.println("House windows are Made with glass");
+	}
+}

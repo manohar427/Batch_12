@@ -1,0 +1,10 @@
+
+public interface MyInterface {
+	
+	void validatePwd();
+	void fundTransfer();
+	abstract void updateMobNo();
+    void resetPwd(){
+	
+    }
+}

@@ -13,7 +13,7 @@ public class StaticExample {
 		cust2.getAddress(200);
 		
 		System.out.println(cust2.x);//200
-		System.out.println(cust2.y);//
+		System.out.println(cust2.y);//0
 		
 		
 		
@@ -32,7 +32,7 @@ class Customer{
 		return "Bangalore,India";
 	}
 	
-	static String getName(int id){
+	 String getName(int id){
 		y = id;
 		return "Abc";
 	}

@@ -1,0 +1,8 @@
+package com.exec;
+
+public class Bank {
+
+	public int getMoney(int acc){
+		return 1000;
+	}
+}

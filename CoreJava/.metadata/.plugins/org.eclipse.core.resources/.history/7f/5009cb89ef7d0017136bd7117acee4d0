@@ -1,0 +1,9 @@
+
+public class HouseManager {
+
+	public static void main(String[] args) {
+      
+		X_House = new X_House();
+	}
+
+}

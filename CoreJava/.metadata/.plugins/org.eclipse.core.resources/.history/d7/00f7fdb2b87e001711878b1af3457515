@@ -1,0 +1,8 @@
+
+public class MyInterfaceImpl implements MyInterface{
+
+	public void validatePwd(){
+		System.out.println("validatePwd executed successfully.");
+	}
+	
+}

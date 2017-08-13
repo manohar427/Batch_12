@@ -1,0 +1,8 @@
+
+public interface MyInterface {
+	
+	public void validatePwd();
+	public void fundTransfer();
+	public void updateMobNo();
+   
+}

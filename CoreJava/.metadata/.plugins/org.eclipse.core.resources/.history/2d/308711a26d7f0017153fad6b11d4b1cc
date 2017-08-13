@@ -1,0 +1,20 @@
+package com.string;
+
+public class StringDemo {
+
+	public static void main(String[] args) {
+
+		String name = "abcdEwsdjwhjk";
+
+		System.out.println(name.length());
+		
+		System.out.println(name);//String@h2q3748263
+		
+		System.out.println(name.toUpperCase());
+		System.out.println(name.toLowerCase());
+		
+		
+		
+	}
+
+}

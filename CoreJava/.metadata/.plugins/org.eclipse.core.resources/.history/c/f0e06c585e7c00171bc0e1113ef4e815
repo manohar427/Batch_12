@@ -1,0 +1,18 @@
+
+public class CustomerDemo {
+
+	public static void main(String[] args) {
+		
+		A obj = new A();
+	}
+}
+
+class A{
+	int x;
+	
+	A(){
+		
+	}
+	
+	
+}

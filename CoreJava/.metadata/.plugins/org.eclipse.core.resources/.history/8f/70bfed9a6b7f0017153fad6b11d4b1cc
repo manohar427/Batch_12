@@ -1,0 +1,26 @@
+package com.test;
+
+public class ObjectDemo extends Object{
+
+	public static void main(String[] args) {
+        A obj = new A();
+        
+        System.out.println(obj);
+        
+ A obj1 = new A();
+        
+        System.out.println(obj1);
+	}
+
+}
+
+
+class A extends Object
+{
+	int age = 10;
+	String name= "abc";
+	
+	 public String toString() {
+	        return "Age:"+age+",name:"+name;
+	    }
+}

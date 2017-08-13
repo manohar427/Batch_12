@@ -1,0 +1,7 @@
+
+public interface MyInterface {
+	
+	void validatePwd();
+	void fundTransfer();
+
+}

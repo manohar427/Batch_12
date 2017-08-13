@@ -1,0 +1,25 @@
+
+public class MethodDemo2 {
+
+	public static void main(String[] args) {
+		
+       Person p = new Person();
+	}
+
+}
+
+class Person{
+	
+	String getName(int custId){
+		return "John";
+	}
+	
+	void showPersonDetails(int custId){
+		
+		System.out.println("name:XYZ");
+		System.out.println("name:20");
+		
+	}
+	
+	
+}

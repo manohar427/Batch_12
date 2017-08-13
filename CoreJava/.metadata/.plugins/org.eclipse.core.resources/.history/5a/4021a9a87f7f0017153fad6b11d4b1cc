@@ -1,0 +1,23 @@
+package com.exec;
+
+public class FinallyDemo {
+
+	public static void main(String[] args) {
+       
+		int avg = 0;
+		try{
+			 avg = 100/0;
+		}
+		finally{
+			System.out.println("DB connection closed");
+		}
+		/*catch(ArrayIndexOutOfBoundsException e){
+			System.out.println("Canot divide by zero");
+		}*/
+		
+		
+		System.out.println("Avg is :"+avg);
+		
+	}
+
+}

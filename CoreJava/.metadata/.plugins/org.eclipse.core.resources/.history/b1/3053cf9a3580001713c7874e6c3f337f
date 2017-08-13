@@ -1,0 +1,20 @@
+package com.exec;
+
+import java.io.FileNotFoundException;
+
+public class Bank {
+
+	public int getMoney(int acc)throws FileNotFoundException{
+		int money = 0;
+		try{
+			 money = 1000/0;
+		}catch(Exception e){
+			//System.out.println("Somwthing went wrong");
+			throw e;
+		}
+		
+		
+		
+		return money;
+	}
+}

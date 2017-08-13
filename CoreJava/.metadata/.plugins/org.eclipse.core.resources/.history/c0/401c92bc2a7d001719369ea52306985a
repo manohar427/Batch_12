@@ -1,0 +1,8 @@
+
+public class Dove extends Animal{
+
+	String getWalkingStyle() {
+		// TODO Auto-generated method stub
+		return super.getWalkingStyle();
+	}
+}

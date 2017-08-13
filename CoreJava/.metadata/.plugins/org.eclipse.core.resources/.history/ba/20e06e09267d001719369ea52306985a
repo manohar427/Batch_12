@@ -1,0 +1,23 @@
+
+public class StaticExample {
+
+	public static void main(String[] args) {
+		Customer cust = new Customer();
+		String address = cust.getAddress(100);
+		String name = cust.getName(100);
+	}
+
+}
+
+class Customer{
+	
+	
+	String getAddress(int cusdtId){
+		
+		return "Bangalore,India";
+	}
+	
+	String getName(int custId){
+		return "Abc";
+	}
+}

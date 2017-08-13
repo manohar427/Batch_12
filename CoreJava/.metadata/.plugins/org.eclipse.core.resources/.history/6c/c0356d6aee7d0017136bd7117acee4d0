@@ -1,0 +1,7 @@
+
+public class House {
+
+	void  getWindows(){
+		System.out.println("Made with glass");
+	}
+}

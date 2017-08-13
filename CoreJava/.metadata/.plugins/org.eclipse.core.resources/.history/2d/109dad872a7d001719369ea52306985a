@@ -1,0 +1,8 @@
+
+public class Dog extends Animal{
+
+	String getWalkingStyle(int a) {
+		// TODO Auto-generated method stub
+		return super.getWalkingStyle(a);
+	}
+}

@@ -1,0 +1,24 @@
+
+public class MethodDemo {
+
+	public static void main(String[] args) {
+
+	}
+
+}
+
+
+class Customer{
+	
+	String getName(int custId){
+		
+		if(custId == 10){
+			return "John";
+			
+		}else if(custId == 10){
+			
+		}
+		
+		return "XYZ";
+	}
+}

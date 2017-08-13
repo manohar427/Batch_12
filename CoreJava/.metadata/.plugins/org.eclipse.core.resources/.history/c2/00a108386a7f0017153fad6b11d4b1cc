@@ -1,0 +1,16 @@
+package com.test;
+
+public class ObjectDemo {
+
+	public static void main(String[] args) {
+        A obj = new A();
+	}
+
+}
+
+
+class A
+{
+	int age = 10;
+	String name= "abc";
+}

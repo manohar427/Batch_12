@@ -1,0 +1,9 @@
+
+public class Dog {
+
+	int legs = 4;
+	
+	String getWalkingStyle(){
+		return "walk";
+	}
+}

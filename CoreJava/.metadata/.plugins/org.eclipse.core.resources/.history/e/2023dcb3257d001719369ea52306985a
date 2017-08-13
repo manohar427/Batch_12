@@ -1,0 +1,17 @@
+
+public class StaticExample {
+
+	public static void main(String[] args) {
+
+	}
+
+}
+
+class Customer{
+	
+	
+	String getAddress(){
+		
+		return "Bangalore,India";
+	}
+}

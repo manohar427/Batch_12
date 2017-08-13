@@ -1,0 +1,7 @@
+
+public class Dove extends Animal{
+
+	String getWalkingStyle() {
+		return "Flying";
+	}
+}

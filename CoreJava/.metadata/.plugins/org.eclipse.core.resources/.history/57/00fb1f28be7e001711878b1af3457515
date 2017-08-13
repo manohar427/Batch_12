@@ -1,0 +1,7 @@
+import com.window.WindowManager;
+
+public class A {
+  public static void main(String[] args) {
+	  WindowManager wm = new WindowManager();
+   }
+}

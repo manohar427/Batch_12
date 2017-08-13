@@ -1,0 +1,7 @@
+package com.test;
+
+public class A {
+
+	int age =10;
+	String name = "abc";
+}

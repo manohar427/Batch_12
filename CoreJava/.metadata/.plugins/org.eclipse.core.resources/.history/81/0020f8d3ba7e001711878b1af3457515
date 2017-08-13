@@ -1,0 +1,6 @@
+
+public class B extends A{
+
+	 public void getMoney(int accNo){
+		 System.out.println("getting the money...XXXXXX");
+}

@@ -1,0 +1,21 @@
+package com.exec;
+
+public class FinallyDemo {
+
+	public static void main(String[] args) {
+       
+		int avg = 0;
+		try{
+			 avg = 100/0;
+		}catch(ArrayIndexOutOfBoundsException e){
+			System.out.println("Canot divide by zero");
+		}
+		finally{
+			System.out.println();
+		}
+		
+		System.out.println("Avg is :"+avg);
+		
+	}
+
+}

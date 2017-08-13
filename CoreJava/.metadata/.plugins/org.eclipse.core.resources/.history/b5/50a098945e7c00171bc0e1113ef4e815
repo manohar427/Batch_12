@@ -1,0 +1,23 @@
+
+public class CustomerDemo {
+
+	public static void main(String[] args) {
+		
+		A y = new A();
+	}
+}
+
+class A{
+	int x;
+	
+	A(){
+		
+		System.out.println("I am from class A constructor()");
+	}
+	
+A(){
+		
+		System.out.println("I am from class A constructor()");
+	}
+	
+}

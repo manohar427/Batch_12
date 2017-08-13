@@ -1,0 +1,15 @@
+
+public class CustomerDemo {
+
+	public static void main(String[] args) {
+		
+		
+	}
+}
+
+class A{
+	int x;
+	
+	
+	
+}

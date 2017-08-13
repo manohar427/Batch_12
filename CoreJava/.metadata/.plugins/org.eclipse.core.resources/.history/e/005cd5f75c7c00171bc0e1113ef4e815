@@ -1,0 +1,44 @@
+
+public class LoopsDemo {
+
+	
+	public static void main(String[] args) {
+
+		
+		/*int age = 11;
+		
+		if(age<10){
+			System.out.println("Student is not eligible for classes");
+		}else{
+			System.out.println("Student is eligible for classes");	
+		}*/
+		
+		/*int marks[] = {90,94,96,70};
+		
+		for(int i=0;i<marks.length;i++){
+			
+			System.out.println("Marks:"+marks[i]);
+		}*/
+		
+		
+		//while
+		
+		  /* int x =0;
+		   while(x <= 10){
+			   System.out.println(x);
+			   x = x+1;//x= 0+1
+		   }*/
+		
+		//do-while
+		
+		int x =0;
+		do{
+			System.out.println(x);
+			x = x+1;			
+		}while(x <= 10);
+		
+	
+		
+	}
+
+}
