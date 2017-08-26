@@ -12,6 +12,8 @@ public class ListDemo {
       al.add("Abc");//1
       al.add(123.45);//2
       al.add('M');//3
+      al.add('M');//3
+      al.add('M');//3
       
       //1
     //  System.out.println(al);
@@ -24,20 +26,21 @@ public class ListDemo {
       //3
       Iterator it =  al.iterator();
       
-     /* while(it.hasNext()){
+      while(it.hasNext()){
     	  System.out.println(it.next());
-      }*/
+      }
       
       //4
-      ListIterator li =  al.listIterator();
+     /* ListIterator li =  al.listIterator();
       while(li.hasNext()){
     	  System.out.println(li.next());
       }
       //5
       while(li.hasPrevious()){
     	  System.out.println(li.previous());
-      }
+      }*/
       
+     // System.out.println(al.get(1));
 	}
 
 }

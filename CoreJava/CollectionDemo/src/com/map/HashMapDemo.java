@@ -1,7 +1,9 @@
 package com.map;
 
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.Map;
+import java.util.Set;
 
 public class HashMapDemo {
 
@@ -23,6 +25,17 @@ public class HashMapDemo {
 		System.out.println(hmap);
 		
 		System.out.println(hmap.get("1"));
+		
+		Set set = hmap.keySet();
+		
+		Iterator it = set.iterator();
+		
+		while(it.hasNext()){
+			Object key = it.next();
+			System.out.println("Key : "+key+",Value:"+hmap.get(key));
+		}
+		
+		
 	}
 
 }
