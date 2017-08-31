@@ -9,7 +9,9 @@ public class EnForLoop {
 		for(int i=0;i<all.length;i++){
 			System.out.println(all[i]);
 		}
+		
 		System.out.println("============");
+		
 		for(int i : all){
 			System.out.println(i);
 		}
